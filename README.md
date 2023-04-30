@@ -1,2 +1,8 @@
 # Agile_Webplanner
-Agile Web Planner is a project management system designed for teams. Built using HTML, CSS, PHP, and MySQL, it has three user roles: admin, project manager, and user. 
+Agile Web Planner is a comprehensive project management system designed to help teams plan, track, and execute projects efficiently. Built using HTML, CSS, PHP, and MySQL, it offers a range of features and functionality that allow teams to work collaboratively and stay organized.
+
+Agile Web Planner has three user roles: admin, project manager, and user. Admins can manage the system and assign new project managers to lead different teams. Project managers have the ability to create new tasks, assign them to team members, and monitor the progress of the project. Users are typically employees who are assigned tasks by project managers and can view and manage their own tasks and update their progress.
+
+Agile Web Planner is designed to be highly customizable, allowing project managers to tailor it to their specific needs. With its intuitive interface, users can easily add new tasks, assign them to team members, and track the progress of the project in real-time. The system also includes a range of features to help teams stay on top of issues that arise during the course of the project. For example, it includes an issue tracking system that allows team members to log issues, assign them to someone to resolve, and track their progress until they are resolved.
+
+One of the key benefits of Agile Web Planner is its ability to generate project progress reports. This feature provides valuable insights into the performance of the project, allowing project managers to identify potential bottlenecks and areas for improvement. By tracking the progress of the project against its goals and milestones, Agile Web Planner helps teams stay on track and meet their deadlines 
